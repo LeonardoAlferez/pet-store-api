@@ -1,0 +1,12 @@
+#Post method to create a pet
+POST http://localhost:8081/pets
+Content-Type: application/json
+
+#json File
+#< ./input.json
+
+
+#Request body content
+
+{ "name" : "Firulais", "tag" : "Chihuahua"}
+

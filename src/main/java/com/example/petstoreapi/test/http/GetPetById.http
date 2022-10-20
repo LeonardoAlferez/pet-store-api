@@ -1,0 +1,2 @@
+#Get Method to get a pet by id
+GET http://localhost:8081/pets/2

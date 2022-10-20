@@ -1,0 +1,3 @@
+#Get all pets created
+GET http://localhost:8081/pets
+
